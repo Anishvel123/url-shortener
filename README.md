@@ -17,7 +17,7 @@ A RESTful URL Shortener API built with Spring Boot and Spring Data JPA. The appl
 * Spring Boot
 * Spring Data JPA
 * Maven
-* MySQL
+* PostgreeSQL
 * REST APIs
 
 ## API Endpoints
